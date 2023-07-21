@@ -1,0 +1,11 @@
+# .gitignore
+__pycache__
+llama-env-flash/
+*.pyc
+*.pyo
+*.pyd
+
+.history/
+llama.cpp/
+
+.DS_Store
